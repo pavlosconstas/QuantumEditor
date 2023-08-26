@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "codemirror": "^5.65.14",
+    "react-codemirror2": "^7.2.1"
+  }
+}
